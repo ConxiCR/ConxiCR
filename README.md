@@ -23,7 +23,10 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
 
 **Contact me on:**
+
 [Linkedin ](https://www.linkedin.com/in/conxicr/) :page_facing_up:
+
+
 <!--
 **ConxiCR/ConxiCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
