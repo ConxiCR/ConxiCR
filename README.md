@@ -1,11 +1,11 @@
-**I'm Conxi Cozar**
+# :arrow_right:**I'm Conxi Cozar**
 
 - :computer: Junior Front-End developper, loving my career shift towards IT
 - Committed to IT career change
 - :money_with_wings: Accountant as my first career
 - Passion for TDD and Clean Code
 
-**My skills include:**
+## :arrow_right:**My skills include:**
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,9 +22,16 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
 
-**Contact me on:**
+
+
+### :arrow_right:**Contact me on:**
 
 [Linkedin ](https://www.linkedin.com/in/conxicr/) :page_facing_up:
+
+
+
+
+
 
 
 <!--
