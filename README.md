@@ -1,6 +1,6 @@
-# :arrow_right:**Hello I'm Conxi Cozar**
+# :arrow_right: Hello I'm [Conxi Cozar][]
 
-* :computer: Junior Front-End developper, loving my career shift towards IT
+* :computer: Junior [Front-End developper][], loving my career shift towards IT
 * :point_right: Committed to IT career change
 * :money_with_wings: Accountant as my first career
 * :star: Passion for TDD and Clean Code
@@ -21,7 +21,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Angular" width="26px" src="https://gist.githubusercontent.com/mrcodedev/228bd1f09270d921209413d1f427e499/raw/32d17e0264bcf5151c6988af63638d4978eff660/img-angular-logo.png" />
+<img align="left" alt="Angular" width="26px" src="https://gist.githubusercontent.com/mrcodedev/228bd1f09270d921209413d1f427e499/raw/32d17e0264bcf5151c6988af63638d4978eff660/img-angular-logo.png" /> </br>
 
 ### Frameworks & software library
 
@@ -50,8 +50,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Leaflet" width="26px" src="<https://leafletjs.com/docs/images/logo.png" />
+<img align="left" alt="MySQL" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img width="50" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
 
 
