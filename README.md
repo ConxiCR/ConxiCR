@@ -1,6 +1,6 @@
-# :arrow_right: Hello I'm [Conxi Cozar][]
+# :arrow_right: Hello I'm ** Conxi Cozar **
 
-* :computer: Junior [Front-End developper][], loving my career shift towards IT
+* :computer: Junior Front-End developper, loving my career shift towards [IT Academy][]
 * :point_right: Committed to IT career change
 * :money_with_wings: Accountant as my first career
 * :star: Passion for TDD and Clean Code
@@ -53,7 +53,7 @@
 <img align="left" alt="MySQL" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img width="50" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
-
+[IT Academy]: https://www.barcelonactiva.cat/itacademy
 
 
 
