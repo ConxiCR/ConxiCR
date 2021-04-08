@@ -47,16 +47,20 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### :pushpin:Code Editor
+### :pushpin:Code Editor &  editores online
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+[Codepen][]
+[JSFiddle][]
+
 
 ### :pushpin:Databases
  <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
-
 [IT Academy]: https://www.barcelonactiva.cat/itacademy
+[Codepen]: https://codepen.io/ <xlink:href="/svgs/compiled/svgs.40016ff2.svg#codepen-box">
+[JSFiddle]: https://jsfiddle.net/
 
 
 
