@@ -50,8 +50,8 @@
 ### :pushpin:Code Editor &  editores online
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-<img alt="Codepen" width="60" src="https://icon-library.com/images/codepen-icon/codepen-icon-15.jpg" />![Codepen]
-<img alt="JSFiddle" width="60" src="https://img2.freepng.es/20180711/qqa/kisspng-jsfiddle-logo-encapsulated-postscript-fiddle-5b45e0ba1d0df8.851842231531306170119.jpg" /> ![JSFiddle][] 
+<img alt="Codepen" width="60" src="https://icon-library.com/images/codepen-icon/codepen-icon-15.jpg" /> [Codepen]
+ <img alt="JSFiddle" width="60" src="https://img2.freepng.es/20180711/qqa/kisspng-jsfiddle-logo-encapsulated-postscript-fiddle-5b45e0ba1d0df8.851842231531306170119.jpg" /> [JSFiddle]
 
 
 ### :pushpin:Databases
