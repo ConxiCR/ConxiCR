@@ -1,6 +1,6 @@
 # :arrow_right: Hello I'm *Conxi Cozar*
 
-* :computer: Junior Front-End developper, loving my career shift towards [IT Academy][]
+* :computer: Junior Front-End developper, loving my career shift towards IT
 * :point_right: Committed to IT career change
 * :money_with_wings: Accountant as my first career
 * :star: Passion for TDD and Clean Code
