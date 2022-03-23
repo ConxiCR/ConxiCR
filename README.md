@@ -8,7 +8,7 @@
 
      ⭐ Passion for TDD and Clean Code
 
-     👩‍🎓 [IT Academy](https://www.barcelonactiva.cat/itacademy)
+ 👩‍🎓 [IT Academy](https://www.barcelonactiva.cat/itacademy)
 
 ## :arrow_right: contact me on:
 
