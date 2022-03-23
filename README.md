@@ -4,7 +4,7 @@
 * :point_right: Committed to IT career change
 * :money_with_wings: Accountant as my first career
 * :star: Passion for TDD and Clean Code
-* 👩‍🎓: [IT Academy](https://www.barcelonactiva.cat/itacademy)
+* 👩‍🎓 [IT Academy](https://www.barcelonactiva.cat/itacademy)
 
 ## :arrow_right: contact me on:
 
