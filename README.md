@@ -12,16 +12,9 @@
 
 ## :arrow_right: contact me on:
 
- 📫 <a style="border: 1px solid #ccc" href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
+ 📫 <a href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
      
-  ![LinkedIn(https://www.linkedin.com/in/conxicr)](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)
-
- 
-
- 
-
-     
-
+  ![LinkedIn](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)<a href="https://www.linkedin.com/in/conxicr"></a>
 
 ## :arrow_right:**My skills include:**
 
