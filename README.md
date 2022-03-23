@@ -12,7 +12,7 @@
 
 ## :arrow_right: contact me on:
 
- 📫 <a href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
+ 📫 conxicr@hotmail.com
      
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/conxicr)
 
