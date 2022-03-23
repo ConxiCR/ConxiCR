@@ -14,7 +14,7 @@
 
  📫 conxicr@hotmail.com 
  
- ![LinkedIn](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/www.linkedin.com/in/conxicr)
+ ![LinkedIn](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/[www.linkedin.com/in/conxicr])
  
  📫 <a style="border: 1px solid #ccc" href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
  https://www.linkedin.com/in/conxicr
