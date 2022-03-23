@@ -59,6 +59,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![JSFiddle](https://img.shields.io/badge/JSFiddle-blue?style=for-the-badge&logo=jsfiddle&logoColor=black)
+
+![StackBlitz](https://img.shields.io/badge/StackBlitz-blue?style=for-the-badge&logo=stackblitz&logoColor=white)
  
 ### :pushpin:Databases & hosting
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -67,7 +69,7 @@
 ### :pushpin:Testing
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
-### :pushpin:Others
+### :pushpin:Ot![StackBlitz]hers
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
