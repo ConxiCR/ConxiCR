@@ -12,12 +12,12 @@
 
 ## :arrow_right: contact me on:
 
- 📫 conxicr@hotmail.com 
- 
- ![LinkedIn[(https://www.linkedin.com/in/conxicr)]](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)
+ 📫 <a style="border: 1px solid #ccc" href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
+     
+  ![LinkedIn(https://www.linkedin.com/in/conxicr)](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)
 
  
- 📫 <a style="border: 1px solid #ccc" href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
+
  
 
      
