@@ -1,16 +1,25 @@
 # :arrow_right: Hello I'm *Conxi Cozar*
 
-* :computer: Junior Front-End developper, loving my career shift towards IT
-* :point_right: Committed to IT career change
-* :money_with_wings: Accountant as my first career
-* :star: Passion for TDD and Clean Code
-* 👩‍🎓 [IT Academy](https://www.barcelonactiva.cat/itacademy)
+     💻 Junior Front-End developper, loving my career shift towards IT
+
+     👉 Committed to IT career chang 
+
+     💸 Accountant as my first career
+
+     ⭐ Passion for TDD and Clean Code
+
+     👩‍🎓 [IT Academy](https://www.barcelonactiva.cat/itacademy)
 
 ## :arrow_right: contact me on:
 
-- [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/conxicr/)
+ 📫 conxicr@hotmail.com 
+ 
+ ![LinkedIn](http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/www.linkedin.com/in/conxicr)
+ 
+ 📫 <a style="border: 1px solid #ccc" href="conxicr@hotmail.com" target="_blank" title="email"><span>email</span></a>
+ https://www.linkedin.com/in/conxicr
 
-- 📫 conxicr@hotmail.com
+     
 
 
 ## :arrow_right:**My skills include:**
