@@ -59,7 +59,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![JSFiddle](https://img.shields.io/badge/JSFiddle-blue?style=for-the-badge&logo=jsfiddle&logoColor=black)
-
 ![StackBlitz](https://img.shields.io/badge/StackBlitz-blue?style=for-the-badge&logo=stackblitz&logoColor=white)
  
 ### :pushpin:Databases & hosting
