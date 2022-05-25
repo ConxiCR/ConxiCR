@@ -2,7 +2,7 @@
 
      💻 Junior Front-End developper, loving my career shift towards IT
 
-     👉 Committed to IT career chang 
+     👉 Committed to IT career change
 
      💸 Accountant as my first career
 
