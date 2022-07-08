@@ -1,6 +1,6 @@
 # :arrow_right: Hello I'm *Conxi Cozar*
 
-     💻 Junior Front-End developper, loving my career shift towards IT
+     💻 Junior Front-End developer, loving my career shift towards IT
 
      👉 Committed to IT career change
 
